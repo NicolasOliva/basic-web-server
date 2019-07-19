@@ -26,6 +26,6 @@ app.get('/about', (req, res) => {
   });
 });
  
-app.listen(3000,() => {
-    console.log("in the port 3000");
+app.listen(port,() => {
+    console.log(`in the port ${port}`);
 })
