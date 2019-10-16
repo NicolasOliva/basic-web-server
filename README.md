@@ -1,3 +1,3 @@
 ## Basic Web Server
 
-Ejecutar npm install 
+Servidor web basico, utilizando tecnologias como hbs, express.
