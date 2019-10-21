@@ -1,3 +1,3 @@
 ## Basic Web Server
 
-Servidor web basico, utilizando tecnologias como hbs, express.
+Basic web server, using technologies that express and hbs.
